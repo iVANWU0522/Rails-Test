@@ -1,5 +1,8 @@
 # README
-bundle install 
-rails db:create 
-rails db:migrate 
+bundle install
+
+rails db:create
+
+rails db:migrate
+
 rails server
